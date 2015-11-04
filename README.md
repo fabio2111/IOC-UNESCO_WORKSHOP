@@ -32,6 +32,6 @@ Check here  *[GitHub Tutorials](https://guides.github.com/)* to learn about GitH
 * [Current state of geoprocessing development on the web applications_Luis Miguel Agudo](Presentations/Current state of geoprocessing development on the web applications_Luis Miguel Agudo.pdf)
 * [Presentation of the Prototype of the CCLME Eco-GIS Viewer and prospects of needs for applications_Luis Miguel Agudo](Presentations/Presentation_Prototype_CCLME_Eco-GIS_Viewer.pdf)
 * [Presentation Current State of Geoprocessing Development on the Web Applications: NODE.js, R in the Server, ArcGIS Server and Geoserver_Luis Miguel Agudo](Presentations/Presentation_Current_State_Geoprocessing_Development_Web_Applications.pdf)
-
+* [Presentation on FAO role and experiences in spatial data analysis supporting fisheries - Fabio Carocci](https://docs.google.com/presentation/d/1z1W90oYtATQfI46j2QIrn5S_TJheLsMpast5V-EUWkI/edit?usp=sharing)
 ### Resources
 * [ArcNode for ArcGIS](https://github.com/esri-es/ArcNode) Node module to work with ArcGIS Online and ArcGIS Server.
